@@ -10,6 +10,7 @@ A curated list of papers and code on perceptive humanoid locomotion.
 
 | Year | Title | Paper | GitHub | Web |
 | --- | --- | --- | --- | --- |
+| 2026 | **CAP: Continuously Adaptive Perception-Blind Humanoid Locomotion via Learned Denoising** | [arXiv 2026.09](https://arxiv.org/abs/2609.11553) | — | [Web](https://hoshi-no-ai.github.io/CAP/) |
 | 2026 | **ViBe: Visual Behavior Adaptation for Perceptive Humanoid Whole-Body Control** | [arXiv 2026.09](https://arxiv.org/abs/2609.09918) | Coming soon | [Web](https://lok-i.github.io/vibe-control/) |
 | 2026 | **PGMT: Perceptive General Motion Tracking for Humanoid Robots** | [arXiv 2026.09](https://arxiv.org/abs/2609.08511) | — | [Web](https://luyili.github.io/pgmt/) |
 | 2026 | **World-Model-Augmented Visual Locomotion for Humanoids on Foothold-Constrained Terrain (WM-LOCO)** | [arXiv 2026.09](https://arxiv.org/abs/2609.02542) | — | — |

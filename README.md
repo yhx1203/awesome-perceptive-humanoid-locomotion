@@ -50,4 +50,3 @@ A curated list of papers and code on perceptive humanoid locomotion.
 | 2024 | **Real-Time Polygonal Semantic Mapping for Humanoid Robot Stair Climbing** | [arXiv 2024.11](https://arxiv.org/abs/2411.01919) | [GitHub](https://github.com/BTFrontier/polygon_mapping) | — |
 | 2024 | **Humanoid Parkour Learning** | [arXiv 2024.06](https://arxiv.org/abs/2406.10759) | — | [Web](https://humanoid4parkour.github.io/) |
 
-[Back to top ↑](#awesome-perceptive-humanoid-locomotion)
